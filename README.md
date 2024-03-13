@@ -13,7 +13,6 @@ Note: Use Python version: 3.8.5
 <details>
 <summary>Neutral Gesture</summary>
  <figure>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/palm.gif" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
